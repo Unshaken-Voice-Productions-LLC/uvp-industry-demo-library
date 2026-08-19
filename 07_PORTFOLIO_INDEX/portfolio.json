@@ -1,0 +1,212 @@
+[
+  {
+    "id": "aleph-motor-works",
+    "name": "Aleph Motor Works",
+    "industry": "Automotive",
+    "siteType": "Repair and service",
+    "description": "A modern automotive service demo centered on maintenance, diagnostics, and transparent customer communication.",
+    "features": [
+      "Preventive maintenance",
+      "Diagnostics and electrical",
+      "Brake and suspension service"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/automotive/aleph-motor-works/dist/index.html"
+  },
+  {
+    "id": "aleph-build-group",
+    "name": "Aleph Build Group",
+    "industry": "Construction",
+    "siteType": "Commercial and residential construction",
+    "description": "A construction portfolio demo presenting capabilities, project process, and quality-focused delivery.",
+    "features": [
+      "Preconstruction planning",
+      "General construction",
+      "Renovation and adaptive reuse"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/construction/aleph-build-group/dist/index.html"
+  },
+  {
+    "id": "aleph-contracting",
+    "name": "Aleph Contracting Co.",
+    "industry": "Contracting",
+    "siteType": "Local trade services",
+    "description": "A conversion-focused contracting demo for estimates, service categories, and project confidence.",
+    "features": [
+      "Interior improvements",
+      "Exterior repairs",
+      "Property maintenance"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/contracting/aleph-contracting/dist/index.html"
+  },
+  {
+    "id": "aleph-counseling",
+    "name": "Aleph Counseling",
+    "industry": "Therapy",
+    "siteType": "Counseling practice",
+    "description": "A privacy-conscious counseling website demo with approachable service information and a simulated appointment flow.",
+    "features": [
+      "Individual counseling",
+      "Family support",
+      "Life transitions"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/therapy/aleph-counseling/dist/index.html"
+  },
+  {
+    "id": "aleph-pathways",
+    "name": "Aleph Pathways",
+    "industry": "Coaching",
+    "siteType": "Life coaching",
+    "description": "An editorial coaching demo focused on goals, reflection, and structured personal development.",
+    "features": [
+      "Goal clarification",
+      "Habit planning",
+      "Accountability sessions"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/coaching/aleph-pathways/dist/index.html"
+  },
+  {
+    "id": "aleph-clothiers",
+    "name": "Aleph Clothiers",
+    "industry": "Clothing",
+    "siteType": "Apparel retail",
+    "description": "A refined apparel storefront demo featuring collections, filtering, and a disabled local cart experience.",
+    "features": [
+      "Essential collection",
+      "Seasonal layers",
+      "Accessories"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/clothing/aleph-clothiers/dist/index.html"
+  },
+  {
+    "id": "aleph-creative-house",
+    "name": "Aleph Creative House",
+    "industry": "Media",
+    "siteType": "Production studio",
+    "description": "A cinematic media studio demo highlighting production services, selected work, and creative process.",
+    "features": [
+      "Video production",
+      "Brand storytelling",
+      "Post-production"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/media/aleph-creative-house/dist/index.html"
+  },
+  {
+    "id": "aleph-fan-hub",
+    "name": "Aleph Fan Hub",
+    "industry": "Entertainment",
+    "siteType": "Community fan experience",
+    "description": "A community entertainment demo with local content feeds, profiles, and event-style presentation.",
+    "features": [
+      "Featured stories",
+      "Community timeline",
+      "Event previews"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/entertainment/aleph-fan-hub/dist/index.html"
+  },
+  {
+    "id": "aleph-pet-care",
+    "name": "Aleph Pet Care",
+    "industry": "Pet Services",
+    "siteType": "Pet care and grooming",
+    "description": "A welcoming pet-services demo presenting grooming, day care, and appointment simulation.",
+    "features": [
+      "Grooming",
+      "Day care",
+      "Wellness visits"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/pet-services/aleph-pet-care/dist/index.html"
+  },
+  {
+    "id": "aleph-research-library",
+    "name": "Aleph Research Library",
+    "industry": "Research",
+    "siteType": "Digital research collection",
+    "description": "A content-rich research library demo with topic navigation, reading paths, and source-oriented presentation.",
+    "features": [
+      "Curated collections",
+      "Topic guides",
+      "Source notes"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/research/aleph-research-library/dist/index.html"
+  },
+  {
+    "id": "aleph-kids-discovery",
+    "name": "Aleph Kids Discovery",
+    "industry": "Education",
+    "siteType": "Child-friendly learning portal",
+    "description": "A child-friendly educational directory demo with curated categories and local-only interactions.",
+    "features": [
+      "Learning links",
+      "Creative activities",
+      "Parent guidance"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/education/aleph-kids-discovery/dist/index.html"
+  },
+  {
+    "id": "aleph-logistics",
+    "name": "Aleph Logistics",
+    "industry": "Trucking",
+    "siteType": "Freight and logistics",
+    "description": "A logistics demo communicating freight capabilities, operational coverage, and shipment inquiry flows.",
+    "features": [
+      "Regional freight",
+      "Dedicated routes",
+      "Shipment coordination"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/trucking/aleph-logistics/dist/index.html"
+  },
+  {
+    "id": "aleph-athletics",
+    "name": "Aleph Athletics",
+    "industry": "Sports",
+    "siteType": "Sports organization",
+    "description": "A sports organization demo featuring programs, schedules, and athlete development content.",
+    "features": [
+      "Youth programs",
+      "Performance training",
+      "Season schedules"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/sports/aleph-athletics/dist/index.html"
+  },
+  {
+    "id": "aleph-outdoor-adventure",
+    "name": "Aleph Outdoor Adventure",
+    "industry": "Outdoor Recreation",
+    "siteType": "Adventure sports",
+    "description": "An immersive adventure-sports demo with experience categories, safety context, and booking simulation.",
+    "features": [
+      "Trail experiences",
+      "Climbing sessions",
+      "Guided expeditions"
+    ],
+    "stack": "Static HTML/CSS/JavaScript",
+    "status": "approved",
+    "demoPath": "../03_RECONSTRUCTED_SITES/outdoor-recreation/aleph-outdoor-adventure/dist/index.html"
+  }
+]

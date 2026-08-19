@@ -1,0 +1,1 @@
+document.getElementById('demo-form')?.addEventListener('submit',function(e){e.preventDefault();document.getElementById('status').textContent='Demonstration complete — no information was submitted or stored.';this.reset();});
