@@ -31,4 +31,4 @@ Node is only needed for the catalog interaction tests; it is not needed to build
 
 The catalog builder and validator are small, reusable examples of standard-library static tooling. No source archive or private records are included. Demo forms are blocked from submitting by both their local handler and Content Security Policy. Keep the simulated forms, fictional disclosure and noindex/nofollow directives when extending the library.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md), [PUBLIC_RELEASE_BOUNDARY.md](PUBLIC_RELEASE_BOUNDARY.md) and [LICENSE](LICENSE). Public visibility does not yet grant an open-source license.
+See [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md), [PUBLIC_RELEASE_BOUNDARY.md](PUBLIC_RELEASE_BOUNDARY.md) and [LICENSE](LICENSE). UVP-owned original code and documentation are licensed under the MIT License.

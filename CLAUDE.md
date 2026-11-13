@@ -1,6 +1,6 @@
 # Repository guidance
 
-This is a public curated library of 14 fictional static industry demos. The private source archive, customer records, original imagery, transaction records and proprietary internals must remain excluded. LICENSE is pending; public visibility is not an open-source grant. Security concerns go to the private channel in SECURITY.md.
+This is a public curated library of 14 fictional static industry demos. The private source archive, customer records, original imagery, transaction records and proprietary internals must remain excluded. The UVP-owned original code/documentation is MIT licensed; retain LICENSE and NOTICE.md and respect third-party rights. Security concerns go to the private channel in SECURITY.md.
 
 ## Authoritative paths
 
