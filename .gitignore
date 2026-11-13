@@ -33,3 +33,6 @@ temp/
 *.mov
 *.avi
 *.psd
+
+# Python tooling output
+*.pyc
