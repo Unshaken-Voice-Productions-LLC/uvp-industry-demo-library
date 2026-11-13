@@ -1,14 +1,5 @@
-# QA Report
+# Quality checks
 
-| Gate | Status |
-|---|---|
-| Static build | PASS |
-| Internal navigation | PASS |
-| Responsive layout | PASS |
-| Keyboard access | PASS |
-| Reduced motion | PASS |
-| Form transmission disabled | PASS |
-| Client identifiers removed | PASS |
-| External APIs and analytics | PASS — none present |
-| Demo disclosure | PASS |
-| Image provenance | PASS — no source images exported |
+Historical reconstruction notes are not proof of current runtime behavior. Run the repository tests and `python tools/build_catalog.py --check` for the current source/distribution and safety checks.
+
+Automated checks cover local asset references, source/distribution parity, robots directives, a restrictive form/network policy and required simulated-form behavior. Keyboard, screen-reader, mobile-layout and browser/network checks remain manual release tasks. No claim of accessibility certification or production service readiness is made.

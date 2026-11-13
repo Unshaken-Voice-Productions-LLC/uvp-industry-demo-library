@@ -1,3 +1,3 @@
-# UVP Aleph Industry Demo Library
+# Industry catalog
 
-Open `index.html` to browse and filter the reconstructed static demo sites. All identities are fictional, all interactions are non-transactional, and all source imagery was excluded from public output pending provenance review.
+`portfolio.json` is the manifest. Edit it, then run `python tools/build_catalog.py` from the repository root. The generated HTML contains all cards so browsing does not depend on a runtime fetch. `catalog.js` filters only those local cards. Serve the repository root to preserve relative demo links. No business identities are real and no form transmits information.

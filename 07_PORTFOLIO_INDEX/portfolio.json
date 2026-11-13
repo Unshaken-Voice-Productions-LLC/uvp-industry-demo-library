@@ -4,14 +4,14 @@
     "name": "Aleph Motor Works",
     "industry": "Automotive",
     "siteType": "Repair and service",
-    "description": "A modern automotive service demo centered on maintenance, diagnostics, and transparent customer communication.",
+    "description": "A fictional automotive website concept presenting preventive maintenance, diagnostics and electrical and a local inquiry simulation.",
     "features": [
       "Preventive maintenance",
       "Diagnostics and electrical",
       "Brake and suspension service"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/automotive/aleph-motor-works/dist/index.html"
   },
   {
@@ -19,14 +19,14 @@
     "name": "Aleph Build Group",
     "industry": "Construction",
     "siteType": "Commercial and residential construction",
-    "description": "A construction portfolio demo presenting capabilities, project process, and quality-focused delivery.",
+    "description": "A fictional construction website concept presenting preconstruction planning, general construction and a local inquiry simulation.",
     "features": [
       "Preconstruction planning",
       "General construction",
       "Renovation and adaptive reuse"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/construction/aleph-build-group/dist/index.html"
   },
   {
@@ -34,14 +34,14 @@
     "name": "Aleph Contracting Co.",
     "industry": "Contracting",
     "siteType": "Local trade services",
-    "description": "A conversion-focused contracting demo for estimates, service categories, and project confidence.",
+    "description": "A fictional contracting website concept presenting interior improvements, exterior repairs and a local inquiry simulation.",
     "features": [
       "Interior improvements",
       "Exterior repairs",
       "Property maintenance"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/contracting/aleph-contracting/dist/index.html"
   },
   {
@@ -49,14 +49,14 @@
     "name": "Aleph Counseling",
     "industry": "Therapy",
     "siteType": "Counseling practice",
-    "description": "A privacy-conscious counseling website demo with approachable service information and a simulated appointment flow.",
+    "description": "A fictional therapy website concept presenting individual counseling, family support and a local inquiry simulation.",
     "features": [
       "Individual counseling",
       "Family support",
       "Life transitions"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/therapy/aleph-counseling/dist/index.html"
   },
   {
@@ -64,14 +64,14 @@
     "name": "Aleph Pathways",
     "industry": "Coaching",
     "siteType": "Life coaching",
-    "description": "An editorial coaching demo focused on goals, reflection, and structured personal development.",
+    "description": "A fictional coaching website concept presenting goal clarification, habit planning and a local inquiry simulation.",
     "features": [
       "Goal clarification",
       "Habit planning",
       "Accountability sessions"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/coaching/aleph-pathways/dist/index.html"
   },
   {
@@ -79,14 +79,14 @@
     "name": "Aleph Clothiers",
     "industry": "Clothing",
     "siteType": "Apparel retail",
-    "description": "A refined apparel storefront demo featuring collections, filtering, and a disabled local cart experience.",
+    "description": "A fictional clothing website concept presenting essential collection, seasonal layers and a local inquiry simulation.",
     "features": [
       "Essential collection",
       "Seasonal layers",
       "Accessories"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/clothing/aleph-clothiers/dist/index.html"
   },
   {
@@ -94,14 +94,14 @@
     "name": "Aleph Creative House",
     "industry": "Media",
     "siteType": "Production studio",
-    "description": "A cinematic media studio demo highlighting production services, selected work, and creative process.",
+    "description": "A fictional media website concept presenting video production, brand storytelling and a local inquiry simulation.",
     "features": [
       "Video production",
       "Brand storytelling",
       "Post-production"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/media/aleph-creative-house/dist/index.html"
   },
   {
@@ -109,14 +109,14 @@
     "name": "Aleph Fan Hub",
     "industry": "Entertainment",
     "siteType": "Community fan experience",
-    "description": "A community entertainment demo with local content feeds, profiles, and event-style presentation.",
+    "description": "A fictional entertainment website concept presenting featured stories, community timeline and a local inquiry simulation.",
     "features": [
       "Featured stories",
       "Community timeline",
       "Event previews"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/entertainment/aleph-fan-hub/dist/index.html"
   },
   {
@@ -124,14 +124,14 @@
     "name": "Aleph Pet Care",
     "industry": "Pet Services",
     "siteType": "Pet care and grooming",
-    "description": "A welcoming pet-services demo presenting grooming, day care, and appointment simulation.",
+    "description": "A fictional pet services website concept presenting grooming, day care and a local inquiry simulation.",
     "features": [
       "Grooming",
       "Day care",
       "Wellness visits"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/pet-services/aleph-pet-care/dist/index.html"
   },
   {
@@ -139,14 +139,14 @@
     "name": "Aleph Research Library",
     "industry": "Research",
     "siteType": "Digital research collection",
-    "description": "A content-rich research library demo with topic navigation, reading paths, and source-oriented presentation.",
+    "description": "A fictional research website concept presenting curated collections, topic guides and a local inquiry simulation.",
     "features": [
       "Curated collections",
       "Topic guides",
       "Source notes"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/research/aleph-research-library/dist/index.html"
   },
   {
@@ -154,14 +154,14 @@
     "name": "Aleph Kids Discovery",
     "industry": "Education",
     "siteType": "Child-friendly learning portal",
-    "description": "A child-friendly educational directory demo with curated categories and local-only interactions.",
+    "description": "A fictional education website concept presenting learning links, creative activities and a local inquiry simulation.",
     "features": [
       "Learning links",
       "Creative activities",
       "Parent guidance"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/education/aleph-kids-discovery/dist/index.html"
   },
   {
@@ -169,14 +169,14 @@
     "name": "Aleph Logistics",
     "industry": "Trucking",
     "siteType": "Freight and logistics",
-    "description": "A logistics demo communicating freight capabilities, operational coverage, and shipment inquiry flows.",
+    "description": "A fictional trucking website concept presenting regional freight, dedicated routes and a local inquiry simulation.",
     "features": [
       "Regional freight",
       "Dedicated routes",
       "Shipment coordination"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/trucking/aleph-logistics/dist/index.html"
   },
   {
@@ -184,14 +184,14 @@
     "name": "Aleph Athletics",
     "industry": "Sports",
     "siteType": "Sports organization",
-    "description": "A sports organization demo featuring programs, schedules, and athlete development content.",
+    "description": "A fictional sports website concept presenting youth programs, performance training and a local inquiry simulation.",
     "features": [
       "Youth programs",
       "Performance training",
       "Season schedules"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/sports/aleph-athletics/dist/index.html"
   },
   {
@@ -199,14 +199,14 @@
     "name": "Aleph Outdoor Adventure",
     "industry": "Outdoor Recreation",
     "siteType": "Adventure sports",
-    "description": "An immersive adventure-sports demo with experience categories, safety context, and booking simulation.",
+    "description": "A fictional outdoor recreation website concept presenting trail experiences, climbing sessions and a local inquiry simulation.",
     "features": [
       "Trail experiences",
       "Climbing sessions",
       "Guided expeditions"
     ],
     "stack": "Static HTML/CSS/JavaScript",
-    "status": "approved",
+    "status": "fictional-demo",
     "demoPath": "../03_RECONSTRUCTED_SITES/outdoor-recreation/aleph-outdoor-adventure/dist/index.html"
   }
 ]
