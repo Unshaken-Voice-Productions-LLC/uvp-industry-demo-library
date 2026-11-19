@@ -24,7 +24,7 @@ Automotive, construction, contracting, therapy, coaching, clothing, media, enter
 
 ## Recommended next actions
 
-1. Review each fictional identity and rename any concept that should not use the Aleph family name.
+1. Review each provisional identity during the planned industry demo redesign.
 2. Add licensed or UVP-owned imagery to selected flagship demos.
 3. Capture desktop and mobile screenshots after deployment to the intended preview host.
 4. Keep the original archive in restricted storage because it contains non-public business records.

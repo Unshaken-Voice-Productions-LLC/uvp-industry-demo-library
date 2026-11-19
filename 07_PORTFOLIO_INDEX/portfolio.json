@@ -1,7 +1,7 @@
 [
   {
-    "id": "aleph-motor-works",
-    "name": "Aleph Motor Works",
+    "id": "motor-works",
+    "name": "Motor Works",
     "industry": "Automotive",
     "siteType": "Repair and service",
     "description": "A fictional automotive website concept presenting preventive maintenance, diagnostics and electrical and a local inquiry simulation.",
@@ -12,11 +12,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/automotive/aleph-motor-works/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/automotive/motor-works/dist/index.html"
   },
   {
-    "id": "aleph-build-group",
-    "name": "Aleph Build Group",
+    "id": "build-group",
+    "name": "Build Group",
     "industry": "Construction",
     "siteType": "Commercial and residential construction",
     "description": "A fictional construction website concept presenting preconstruction planning, general construction and a local inquiry simulation.",
@@ -27,11 +27,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/construction/aleph-build-group/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/construction/build-group/dist/index.html"
   },
   {
-    "id": "aleph-contracting",
-    "name": "Aleph Contracting Co.",
+    "id": "contracting",
+    "name": "Contracting Co.",
     "industry": "Contracting",
     "siteType": "Local trade services",
     "description": "A fictional contracting website concept presenting interior improvements, exterior repairs and a local inquiry simulation.",
@@ -42,11 +42,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/contracting/aleph-contracting/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/contracting/contracting/dist/index.html"
   },
   {
-    "id": "aleph-counseling",
-    "name": "Aleph Counseling",
+    "id": "counseling",
+    "name": "Counseling",
     "industry": "Therapy",
     "siteType": "Counseling practice",
     "description": "A fictional therapy website concept presenting individual counseling, family support and a local inquiry simulation.",
@@ -57,11 +57,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/therapy/aleph-counseling/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/therapy/counseling/dist/index.html"
   },
   {
-    "id": "aleph-pathways",
-    "name": "Aleph Pathways",
+    "id": "pathways",
+    "name": "Pathways",
     "industry": "Coaching",
     "siteType": "Life coaching",
     "description": "A fictional coaching website concept presenting goal clarification, habit planning and a local inquiry simulation.",
@@ -72,11 +72,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/coaching/aleph-pathways/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/coaching/pathways/dist/index.html"
   },
   {
-    "id": "aleph-clothiers",
-    "name": "Aleph Clothiers",
+    "id": "clothiers",
+    "name": "Clothiers",
     "industry": "Clothing",
     "siteType": "Apparel retail",
     "description": "A fictional clothing website concept presenting essential collection, seasonal layers and a local inquiry simulation.",
@@ -87,11 +87,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/clothing/aleph-clothiers/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/clothing/clothiers/dist/index.html"
   },
   {
-    "id": "aleph-creative-house",
-    "name": "Aleph Creative House",
+    "id": "creative-house",
+    "name": "Creative House",
     "industry": "Media",
     "siteType": "Production studio",
     "description": "A fictional media website concept presenting video production, brand storytelling and a local inquiry simulation.",
@@ -102,11 +102,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/media/aleph-creative-house/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/media/creative-house/dist/index.html"
   },
   {
-    "id": "aleph-fan-hub",
-    "name": "Aleph Fan Hub",
+    "id": "fan-hub",
+    "name": "Fan Hub",
     "industry": "Entertainment",
     "siteType": "Community fan experience",
     "description": "A fictional entertainment website concept presenting featured stories, community timeline and a local inquiry simulation.",
@@ -117,11 +117,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/entertainment/aleph-fan-hub/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/entertainment/fan-hub/dist/index.html"
   },
   {
-    "id": "aleph-pet-care",
-    "name": "Aleph Pet Care",
+    "id": "pet-care",
+    "name": "Pet Care",
     "industry": "Pet Services",
     "siteType": "Pet care and grooming",
     "description": "A fictional pet services website concept presenting grooming, day care and a local inquiry simulation.",
@@ -132,11 +132,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/pet-services/aleph-pet-care/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/pet-services/pet-care/dist/index.html"
   },
   {
-    "id": "aleph-research-library",
-    "name": "Aleph Research Library",
+    "id": "research-library",
+    "name": "Research Library",
     "industry": "Research",
     "siteType": "Digital research collection",
     "description": "A fictional research website concept presenting curated collections, topic guides and a local inquiry simulation.",
@@ -147,11 +147,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/research/aleph-research-library/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/research/research-library/dist/index.html"
   },
   {
-    "id": "aleph-kids-discovery",
-    "name": "Aleph Kids Discovery",
+    "id": "kids-discovery",
+    "name": "Kids Discovery",
     "industry": "Education",
     "siteType": "Child-friendly learning portal",
     "description": "A fictional education website concept presenting learning links, creative activities and a local inquiry simulation.",
@@ -162,11 +162,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/education/aleph-kids-discovery/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/education/kids-discovery/dist/index.html"
   },
   {
-    "id": "aleph-logistics",
-    "name": "Aleph Logistics",
+    "id": "logistics",
+    "name": "Logistics",
     "industry": "Trucking",
     "siteType": "Freight and logistics",
     "description": "A fictional trucking website concept presenting regional freight, dedicated routes and a local inquiry simulation.",
@@ -177,11 +177,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/trucking/aleph-logistics/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/trucking/logistics/dist/index.html"
   },
   {
-    "id": "aleph-athletics",
-    "name": "Aleph Athletics",
+    "id": "athletics",
+    "name": "Athletics",
     "industry": "Sports",
     "siteType": "Sports organization",
     "description": "A fictional sports website concept presenting youth programs, performance training and a local inquiry simulation.",
@@ -192,11 +192,11 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/sports/aleph-athletics/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/sports/athletics/dist/index.html"
   },
   {
-    "id": "aleph-outdoor-adventure",
-    "name": "Aleph Outdoor Adventure",
+    "id": "outdoor-adventure",
+    "name": "Outdoor Adventure",
     "industry": "Outdoor Recreation",
     "siteType": "Adventure sports",
     "description": "A fictional outdoor recreation website concept presenting trail experiences, climbing sessions and a local inquiry simulation.",
@@ -207,6 +207,6 @@
     ],
     "stack": "Static HTML/CSS/JavaScript",
     "status": "fictional-demo",
-    "demoPath": "../03_RECONSTRUCTED_SITES/outdoor-recreation/aleph-outdoor-adventure/dist/index.html"
+    "demoPath": "../03_RECONSTRUCTED_SITES/outdoor-recreation/outdoor-adventure/dist/index.html"
   }
 ]

@@ -23,8 +23,8 @@ test('export serves exactly the gallery, 14 demos and legal/robots files',async(
     assert.ok(!fs.existsSync(path.join(dir,'showcase','01_INVENTORY')));
     assert.ok(!fs.existsSync(path.join(dir,'showcase','.env')));
     const index=fs.readFileSync(path.join(dir,'showcase','index.html'),'utf8');assert.ok(!index.includes('../03_RECONSTRUCTED_SITES'));
-    assert.ok(index.includes('href="demos/aleph-motor-works/index.html"'));
-    const page=fs.readFileSync(path.join(dir,'showcase','demos/aleph-motor-works/index.html'),'utf8');assert.ok(page.includes('href="../../index.html"'));
+    assert.ok(index.includes('href="demos/motor-works/index.html"'));
+    const page=fs.readFileSync(path.join(dir,'showcase','demos/motor-works/index.html'),'utf8');assert.ok(page.includes('href="../../index.html"'));
     assert.deepEqual(packageShowcase(dir),files);
   }finally{fs.rmSync(dir,{recursive:true,force:true});}
 });
@@ -41,14 +41,14 @@ test('manifest traversal is rejected before replacing a good output',async()=>{
 test('a symlinked demo asset cannot expose unrelated files',async()=>{
   const dir=fixture();
   try{
-    const file=path.join(dir,'03_RECONSTRUCTED_SITES/automotive/aleph-motor-works/dist/script.js');fs.unlinkSync(file);fs.symlinkSync(path.join(dir,'NOTICE.md'),file);
+    const file=path.join(dir,'03_RECONSTRUCTED_SITES/automotive/motor-works/dist/script.js');fs.unlinkSync(file);fs.symlinkSync(path.join(dir,'NOTICE.md'),file);
     const {packageShowcase}=await build();assert.throws(()=>packageShowcase(dir),/regular source file/);
   }finally{fs.rmSync(dir,{recursive:true,force:true});}
 });
 test('a symlinked distribution parent cannot escape the export boundary',async()=>{
   const dir=fixture();const outside=fs.mkdtempSync(path.join(os.tmpdir(),'uvp-showcase-private-'));
   try{
-    const demo=path.join(dir,'03_RECONSTRUCTED_SITES/automotive/aleph-motor-works/dist');fs.cpSync(demo,outside,{recursive:true});fs.rmSync(demo,{recursive:true});fs.symlinkSync(outside,demo,'dir');
+    const demo=path.join(dir,'03_RECONSTRUCTED_SITES/automotive/motor-works/dist');fs.cpSync(demo,outside,{recursive:true});fs.rmSync(demo,{recursive:true});fs.symlinkSync(outside,demo,'dir');
     const {packageShowcase}=await build();assert.throws(()=>packageShowcase(dir),/symlinks/);
   }finally{fs.rmSync(dir,{recursive:true,force:true});fs.rmSync(outside,{recursive:true,force:true});}
 });
