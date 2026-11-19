@@ -36,3 +36,6 @@ temp/
 
 # Python tooling output
 *.pyc
+
+# Generated static hosting allowlist
+showcase/
